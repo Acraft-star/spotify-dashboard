@@ -6,7 +6,7 @@
 
 An interactive **Power BI dashboard** built to analyze Spotify music data and understand trends related to artists, songs, popularity, albums, song duration, and yearly performance.
 
----
+--
 
 ## 📊 Project Overview
 
