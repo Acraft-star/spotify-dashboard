@@ -337,19 +337,18 @@ This type of analysis can support **music trend analysis, content strategy, arti
 
 ## Home Page
 
-![Spotify Dashboard - Home Page](Home_page\(3\).jpg)
+https://github.com/Acraft-star/spotify-dashboard/blob/main/Home_page.jpg
 
 ## Overview Page
 
-![Spotify Dashboard - Overview Page](Overview_page\(3\).jpg)
+https://github.com/Acraft-star/spotify-dashboard/blob/main/Overview_page.jpg
 
 ## Artists Page
 
-![Spotify Dashboard - Artists Page](Artist_page\(3\).jpg)
-
+https://github.com/Acraft-star/spotify-dashboard/blob/main/Artist_page.jpg
 ## Songs Page
 
-![Spotify Dashboard - Songs Page](Song_page\(3\).jpg)
+https://github.com/Acraft-star/spotify-dashboard/blob/main/Song_page.jpg
 
 ---
 
